@@ -13,5 +13,4 @@ Just Run:
 docker compose up --build to get it to run and go to localhost to see the site.
 
 Screenshot of Running Program
-
-[![projsetup.png](https://i.postimg.cc/66j8fgSy/projsetup.png)](https://postimg.cc/K4TcZqm2)q
+![img.png](img.png)
